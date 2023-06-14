@@ -1,11 +1,11 @@
 # Card_Hangman
 
-Description 
+Description: 
 This project is a simple game for fun. The project is recreating of the hangman game.
 It is written by python version 3.11.
 My approach was to use class in python. So basically it was an project about implementing class in python. 
 
-Installation
+Installation:
 Python version 3.11 is needed. 
 the project can be cloned to your local laptop. 
 
