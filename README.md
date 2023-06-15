@@ -1,4 +1,4 @@
-# Card_Hangman
+# Hangman
 
 Description: 
 This project is a simple game for fun. The project is recreating of the hangman game.
